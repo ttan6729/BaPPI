@@ -1,0 +1,5 @@
+cd /home/user1/code/PPI3/BaPPI && source /home/user1/code/PPIKG/env/bin/activate 
+mkdir -p result &&  python3 main.py -m bds -i SHS27K.txt  -L 512 -o ../result/test -ln 3 -e 100
+
+python3 main.py -m read -i SHS27K.txt -i3 /home/user1/code/PPIKG/multiSet/o2/27k_bfs10.data -e 100 -o result/27K_bfs10 -L 512 -ln 3 
+
