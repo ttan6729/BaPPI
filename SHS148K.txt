@@ -1,2 +1,0 @@
-data/SHS148K.seqs.csv
-data/SHS148K.actions.txt
