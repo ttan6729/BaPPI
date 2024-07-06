@@ -1,2 +1,0 @@
-data/SYS30K.seqs.tsv
-data/SYS30K.actions.txt
