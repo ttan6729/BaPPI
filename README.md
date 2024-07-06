@@ -1,5 +1,4 @@
-# BaPPI
-balanced learning for PPI prediction
+# BaPPI-balanced learning for PPI prediction
 This repository contains an official implementation of BaPPI and datasets used for evaluating PPI prediction model.
 ----
 ## Environments
