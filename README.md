@@ -37,4 +37,4 @@ options:
 ```
 ### Sample command for training and testing
 ```
-python3 main.py -m bfs -i SHS27K.txt  -L 512 -o SHS27K_bfs -ln 3 -e 100
+python3 main.py -m bfs -i data/SHS27K.txt  -L 512 -o SHS27K_bfs -ln 3 -e 100
