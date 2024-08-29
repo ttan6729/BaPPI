@@ -40,4 +40,4 @@ options:
 python3 main.py -m bfs -i data/SHS27K.txt  -L 512 -o SHS27K_bfs -ln 3 -e 100
 
 ### Source file
-The input file for BaPPI is in data folder. Position-specific scoring matrix (PSSM) can also be used as additional input for BaPPI, the PSSM file for dataset SHS27K, SHS148K, SYS30K and SYS60K is available at https://github.com/ttan6729/BaPPI-PSSM.
+The input file for BaPPI is in data folder. Position-specific scoring matrix (PSSM) can also be used as additional input for BaPPI, the PSSM file for dataset SHS27K, SHS148K, SYS30K and SYS60K is available at https://drive.google.com/file/d/1S6jEqQhY9qb-Z7IQhx0qHO6NHJkfSjz1/view?usp=sharing.
